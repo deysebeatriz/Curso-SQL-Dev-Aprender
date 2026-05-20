@@ -3,4 +3,4 @@
 SELECT count(DISTINCT Size)
 FROM Production.Product
 
--- R: 211 tamanhos
+-- R: 18 tamanhos
