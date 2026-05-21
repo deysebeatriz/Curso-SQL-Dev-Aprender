@@ -7,8 +7,7 @@ Este projeto funciona como um portfólio do meu aprendizado prático em Banco de
 
 ## Base de Dados
 Os scripts deste repositório foram desenvolvidos utilizando o banco de dados de exemplo **AdventureWorks2017**.
-
-> **Nota:** O arquivo de backup de dados (`.bak`) não está incluso neste repositório devido ao seu tamanho.
+O mesmo pode ser baixado neste [link](https://drive.google.com/file/d/1LCofjYj-pV1asBLrxtgPDsbqMFRefHW5/view)
 
 ## Tópicos Abordados
 Durante o curso, pratiquei e apliquei os seguintes conceitos de SQL Server:
@@ -23,7 +22,7 @@ Durante o curso, pratiquei e apliquei os seguintes conceitos de SQL Server:
 *   **Estrutura e CRUD:** `CREATE TABLE`, `INSERT`, `UPDATE`, `DELETE`, `ALTER TABLE`, `DROP TABLE`
 *   **Outros:** Chaves Primárias (PK), Chaves Estrangeiras (FK), Restrições (`NOT NULL`, `UNIQUE`, `CHECK`) e Views.
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 *   **SGBD:** Microsoft SQL Server
-*   **IDE:** SQL Server Management Studio (SSMS)
-*   **Versionamento:** Git e GitHub Desktop
+*   **IDE:** SQL Server Management Studio 22(SSMS)
+*   **Versionamento:** Git e GitHub Desktop  
